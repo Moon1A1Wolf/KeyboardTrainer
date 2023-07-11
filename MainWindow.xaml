@@ -274,7 +274,7 @@
             <Button Grid.Column="3" Content="Space" Background="SandyBrown" Name="Space"/>
             <Button Grid.Column="4" Content="Alt" Name="RAlt"/>
             <Button Grid.Column="5" Content="Win" Name="RWin"/>
-            <Button Grid.Column="6" Content="Ctrl" Name="RightCtrl" Background="LightBlue"/>
+            <Button Grid.Column="6" Content="Ctrl" Name="RightCtrl"/>
         </Grid>
     </Grid>
 </Window>
